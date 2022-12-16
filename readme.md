@@ -1,9 +1,13 @@
 
 
 To install psutil.
+
 pip3 install psutil
+
 To install tkinter.
+
 pip3 install tk
+
 now simply run the python file and the application will open.
 
 python3 taskmanager_linux.py
