@@ -1,12 +1,17 @@
 
 
-To install psutil
+To install psutil.
+
 pip3 install psutil
-To install tkinter
+
+To install tkinter.
+
 pip3 install tk
 
 now simply run the python file and the application will open.
+
 python3 taskmanager_linux.py
+
 The application will then start.
 
 The application refreshes the processes and the blocklist list in a loop after every 2s and the resources refreshes after every 200ms.
